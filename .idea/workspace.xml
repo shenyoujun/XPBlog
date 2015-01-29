@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dad374f5-d215-4e9a-aca1-cfb15a95e087" name="Default" comment="" />
+    <list default="true" id="dad374f5-d215-4e9a-aca1-cfb15a95e087" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="shishuocms.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -140,10 +142,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="add.ftl" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="add.ftl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/manage/article/add.ftl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="0.07919255" vertical-offset="51" max-vertical-offset="2227">
+            <state line="6" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="-1.9615384" vertical-offset="51" max-vertical-offset="2227">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="1" selection-start="49" selection-end="49" vertical-scroll-proportion="-2.6" vertical-offset="20" max-vertical-offset="221">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LICENSE" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LICENSE">
+          <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+            <state />
+          </provider>
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="32.3" vertical-offset="969" max-vertical-offset="11560">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="22" column="12" selection-start="672" selection-end="672" vertical-scroll-proportion="0.042394016" vertical-offset="357" max-vertical-offset="1989">
               <folding />
             </state>
           </provider>
@@ -156,30 +188,6 @@
               <folding>
                 <element signature="e#0#7974#0" expanded="true" />
                 <element signature="e#4858#4876#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Install.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shishuo/cms/Install.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="13" selection-start="657" selection-end="657" vertical-scroll-proportion="0.0" vertical-offset="1231" max-vertical-offset="2567">
-              <folding>
-                <element signature="e#0#5911#0" expanded="false" />
-                <element signature="imports" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ArticleListTag.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/shishuo/cms/tag/ArticleListTag.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="13" selection-start="930" selection-end="930" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="748">
-              <folding>
-                <element signature="e#0#1782#0" expanded="false" />
-                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -220,6 +228,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/shishuo/cms/dao/AdminDao.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/shishuo/cms/dao/ArticleDao.java" />
         <option value="$PROJECT_DIR$/dist/WEB-INF/static/manage/article/add.ftl" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -1118,19 +1127,19 @@
       <created>1422437850140</created>
       <updated>1422437850140</updated>
       <workItem from="1422437851485" duration="4651000" />
-      <workItem from="1422498566384" duration="6198000" />
+      <workItem from="1422498566384" duration="6830000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10849000" />
+    <option name="totallyTimeSpent" value="11481000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1612" height="876" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32972974" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1214,26 +1223,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="1" selection-start="57" selection-end="57" vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="221" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.settings/org.eclipse.core.resources.prefs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="29" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="170" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shishuo/cms/dao/ConfigDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="17" selection-start="383" selection-end="383" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="1122">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="26" selection-start="699" selection-end="699" vertical-scroll-proportion="-15.64" vertical-offset="0" max-vertical-offset="1989" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/shishuo/cms/dao/ConfigDao.xml">
@@ -1604,7 +1598,31 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/static/manage/article/add.ftl">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="0.07919255" vertical-offset="51" max-vertical-offset="2227">
+        <state line="6" column="10" selection-start="172" selection-end="172" vertical-scroll-proportion="-1.9615384" vertical-offset="51" max-vertical-offset="2227">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="1" selection-start="49" selection-end="49" vertical-scroll-proportion="-2.6" vertical-offset="20" max-vertical-offset="221">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="32.3" vertical-offset="969" max-vertical-offset="15045">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="12" selection-start="672" selection-end="672" vertical-scroll-proportion="0.042394016" vertical-offset="357" max-vertical-offset="1989">
           <folding />
         </state>
       </provider>
